@@ -1,0 +1,8 @@
+jrepp@natty:~/src/rrfile$ time ./rrf_test 
+wrote 120000012 record bytes
+
+real    0m44.235s
+user    0m5.510s
+sys 0m14.640s
+
+2712784.265 record bytes/sec
